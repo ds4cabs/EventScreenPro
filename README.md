@@ -23,9 +23,10 @@ This project aims to streamline the process of designing and deploying digital p
 
 ### Installation
 
-Clone the repository to your local machine using: ```git clone https://github.com/yourusername/ConfDisplayWizard.git```
+Clone the repository to your local machine using:
 
 ```
+git clone https://github.com/yourusername/ConfDisplayWizard.git
 pip install python-pptx pandas
 ```
 
