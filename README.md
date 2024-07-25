@@ -54,6 +54,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/ConfDisplayWizard](https://github.com/yourusername/ConfDisplayWizard)
+Project Link: [https://github.com/ds4cabs/ConfDisplayWizard](https://github.com/yourusername/ConfDisplayWizard)
 
 For more information or support, please email us at o2@cabsweb.org
