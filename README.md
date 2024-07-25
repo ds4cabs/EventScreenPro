@@ -1,6 +1,6 @@
 # EventScreenPro
 
-ConfDisplayWizard is a dynamic PowerPoint presentation tool designed for conferences. It automates the creation and display of speaker profiles and the conference agenda on TV screens throughout the venue, enhancing attendee engagement and ensuring seamless information flow.
+EventScreenPro (ConfDisplayWizard) is a dynamic PowerPoint presentation tool designed for conferences. It automates the creation and display of speaker profiles and the conference agenda on TV screens throughout the venue, enhancing attendee engagement and ensuring seamless information flow.
 
 ## Project Overview
 
