@@ -28,6 +28,7 @@ Clone the repository to your local machine using:
 ```
 git clone https://github.com/yourusername/ConfDisplayWizard.git
 pip install python-pptx pandas
+install.packages(c("officer", "readxl", "dplyr"))
 ```
 
 ### Usage
